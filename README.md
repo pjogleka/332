@@ -1,2 +1,2 @@
 # phys332
-Numerical Techniques II
+Scripts from second course in Numerical Methods
